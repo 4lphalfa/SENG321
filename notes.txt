@@ -1,0 +1,210 @@
+==========
+2018-09-06
+==========
+
+Not fixing requirements can be expensive
+
+Requirements Engineering is about Expectations Management
+
+Develop skils for
+    - analysis and contract negotiation
+    - solution seeking in context of customer problem
+    - choosing the right requirements technique for particular projects, organizational setting and development process model
+    - requirements validation for solution fit
+
+
+
+==========
+2018-09-10
+==========
+
+Latent Knowledge:
+    Knowledge that is not readily accessable
+
+Tact Knowledge:
+    Knowledge that is readily available, but is considered too obvious to mention
+
+Strategic Considerations to Elicitation
+    - What info should be gathered
+    - From what sources may it be gleamed
+    - By what mechanisms or techniques may it be gathered
+
+Requirements Engineering Process:
+    - A description of the problem domain
+    - A list of problems requiring solution
+    - Any client-imposed constraints upon the behavior or structure of the solution system
+
+Sources of info for Problem Domain
+    - Clients
+    - Clients' "specifications"
+    - Pre-existing solutions and their documentation
+    - Users of pre-existing systems
+    - Potential users of the new system
+    - Predecessor or competitor's products
+    - Application (problem) domain experts
+    - Documents defining the characteristics and behavior of any interfacing system (terminators)
+    - Relevant technical standards and legislation
+
+Elicitation Techniques
+    - Background reading
+    - Brain storming
+    - Discourse analysis
+    - Document inspection
+    - Ethnography
+    - Interviewing
+    - Joint Application Design
+    - Questionnairs
+    - Requirements stripping
+    - Sitting with Nellie
+    - Task observation
+    - Use-case and scenairos
+
+Elicitation Plan Considerations
+    - What info should be elicited
+    - What sources should be used
+    - What mechanisms or techniques should be employed
+
+Info to Elicit
+    - The basic type of application
+    - The identity of the client
+    - The main motivation to the client
+    - etc...
+
+Social-political considerations that might interfere with elicitation
+    - Fear of redundency
+    - Fear of down-sizing
+    - Promotion
+    - A desire to prove themselves right
+    - A desire to maintain power through knowledge
+    - Empire building
+
+
+What is Requirements Engineering
+    Set of activities to identify purpose in the context of human activities
+
+If the software doesn't respond how we want, it's not high quality
+High quality is hard to measure
+
+Software quality as firness for purpose
+
+Where does RE fint in software development?
+    Start early, but we now use iterative design, so RE is revisited frequently
+
+RE requires an ongoing understanding of the problem
+
+Design of software intensive systems: type of a wicked problem:
+    - No single formulation of the problem
+    - Continuous need for exploration
+    - No right or wrong solution
+    - Unique characteristics
+... Identifying the problem is a problem in itself
+
+Hard vs. Soft Systems
+    - Soft systems methods 
+        suited for wicked problems
+        adopt a Human-centered design view
+
+Requirements Engineering Definition
+    RE is a set of activities concerned with identifying and ... - Easterbrook, Ch1
+
+A spectrum of software-intensive systems
+    The type of system may determine how requirements are elicited, analyzed, and negotiated
+
+Requirements describe problems
+    Requirements
+        describe the problem statements
+        and
+        activites to be supported by the system
+    Ideal: separate the problem from solutions
+    Practice: very difficult to accomplish
+
+Figure 3 (Easterbrook Ch2): Twin peaks model
+
+Application domain vs. Machine domain (Jackson, The meaning of requirements, 1977)
+
+Example - problem and req vs solution statement
+    Context: Design a secure means (software, i.e. the machine) to store data
+    Example of a requirements (for the machine): prevent access to unauthorized personnel:
+    Example of Domain property: only a manager can assign access authority
+    Specification for the machine: when the user enters a valid password, the computer will unlock the door (or the system requires a login and password for access")
+    
+Problem
+Specification
+Solution
+
+RE processes
+    - Elicitation
+    - Analysis
+    - Specification
+    - Validation and verification
+    - Negotiation
+    - Management
+
+Do not talk about solutions when eliciting info about the client's problem
+
+
+Interviews
+
+Distinguish between wants, needs, and wishes
+    Try to get the needs
+
+Main Elicitation Techniques
+    - Background reading / inspection of documents
+    - Interviews
+    - Questionnaires
+    - Observations
+    - Group techniques (JAD, focus groups)
+    - Contextual design (Combine interviews and observations)
+    - Newer methods:
+        * StakeSource
+        * Data mining
+
+Interviews
+    - Most widely used technique in requirements engineering
+    - Analysts interview future users of the system individually to find out
+        - What the present system does
+        - What changes are needed
+    - The info gathered during the interviews enables the analysts to design a new system that will eliminate the shortcomings of the current one.
+
+    Advantages
+        - Access to individual stakeholders and their opinions
+        - Rich collection of info
+        - Ability to adapt questions to particualr situations
+    
+    Disadvantages
+        - Info from multiple sources, hard to analyze
+        - Difficult to be a skilled interviewer
+        - May intimidate the interviewee
+
+    5 Steps of an interview:
+        Preparing for the interview
+        Planning and scheduling the interview
+        Opening and closing the interview
+        Conducting the interview
+        Following up for clairification
+
+    Types of interviews:
+        Structured
+        Unstructured (let's explore the situation)
+
+    Try to avoid using the words: problems, better
+
+
+Request for Proposal (RFP)
+    
+
+
+By Thurs
+    2 min presentation
+        What company
+        Interview or when the interview is scheduled
+
+By Tues
+    Finish interview and...
+
+
+
+
+
+
+
