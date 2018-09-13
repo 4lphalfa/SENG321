@@ -208,3 +208,45 @@ By Tues
 
 
 
+==========
+2018-09-13
+==========
+
+What are Requirements?
+
+What is a Requirement?: Describe the problem statements and activities to be supported by they system
+    The what vs the solution (the how)
+
+Ex Distinction between a problem statement and a solution statement
+
+The problem domain and the requirements
+    Problem domain: The part of the universe within which the problems exist
+    The Problem: 
+        A control system is needed that will make more efficient use of the lifts in the building
+    The Requirements: the effects that the client wishes to be brought about in the problem domain
+        ex a lift will only reverse direction when stopped at a floor, the lift will not stop when going down from one floor to the next
+
+Requirements, domain property and the specification
+    Requirements: 
+    Domain properties: When a lift is within 20cm vertically of the sensor's nominal position the sensor sends a hi signal otherwise a low signal
+    Specification: 
+
+Types of requirements
+    fucntion of the system is most likely a part of the system
+
+Types of requirements
+    Functionality
+    Quality assurance
+    Security
+    Physical Environment
+    Interfaces
+    Users and human factors
+    Documentation
+    Data
+    Resources
+    Design constraints (ex language, archetecture)
+    
+
+
+
+
