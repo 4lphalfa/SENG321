@@ -250,3 +250,114 @@ Types of requirements
 
 
 
+==========
+2018-09-17
+==========
+
+(Survey the population by questionnaires or interviews)
+
+Elicitation Techniques
+    Questionnaires
+        Gather info by neans of a survey
+        - Reach a large pool of people
+        - Uniform questions
+        - location doesn't matter
+        - Difficult to contextualize, context is missing
+        - Difficult to design well
+    Observations
+        Takes the analyst in the working context
+        - Able to collect contextual information
+        - Difficult to obtain access to the customer site
+        - Time consuming
+        - Does not collect personal opinions
+        - Easy to "go native" and think like the population you are observing
+    Contextual Inquiry
+        A field of intervieing technique aimed at revealing work structure. Field Interview technique.
+        - Observe
+        - Interview
+        - Develop a shared understanding
+        - Direct the inquiry from a clear understanding of your own purpose
+
+In the absence of appropriate communication techniques...
+    Technical Power (by developers)
+        - doesn't allow users to make their own observations
+    Structural Power (by customers)
+        - defining project tasks
+    Conceptual Power (by customers and developers)
+
+
+Industry Panel - Requirements in the Wild
+    Emma 
+    Zaine
+    Colin
+    Jorin
+
+    What role does RE play in company practices?
+        Emma
+            In a startup the requirements were crazy
+            Don't have all requirements at the start
+            Ability to adapt to changes
+        Zaine
+            Startup
+            Large company didn't have many requirements
+        Colin
+            Large sotware company that wasn't always large
+            Clent drivin
+            Market team driven
+            Writing requirements for themselves
+    What worked well in terms of managing requirements
+        Emma
+            Communication
+            Scrums/frequent meetings with clients
+        Colin
+            Well rounded teams
+            Communication within the team
+            You might not know who the client is
+            Understand what you're trying to build/accomplish
+        Zaine
+            Requirements are like a contract
+            Understand what the clents need, and what they're paying for
+    How to react to changes in requirements
+        Colin
+            Negotiation
+        Emma
+            Happens frequently in smaller companies
+            Depends on deadlines
+            From a managements perspective, have a general baseline before starting a project
+    Explaining that features are not possible
+        Emma
+            Hopefully it's not your responsibility
+            Management should be doing if for you
+            Stand your ground and a Buisness Analysist/Project Manager
+    Formal requirements change process?
+        Emma
+            Shred Excel to keep track of the change request
+            Communication with development team for time estimate
+            Increase it by 50%
+        Colin
+            Management's decision
+            Double estimate
+            Small changes might be bigger than expected
+            Always give yourself more time
+        Zaine
+            Approval process takes much longer than development
+            Give a bigger estimate
+    What happens if you can't speak to the stakeholders often
+        Emma
+            When you're working on huge projects, requirements phase can take a year+
+            Set the requirements very clearly at the start of the projects
+    What can we practice in class
+        Colin
+            Learn how to write things that aren't ambiguous
+            Break a feature down
+            Prototype
+            Understand what the feature is
+        Zaine
+            Make it clear
+            Don't make it too wordy
+
+
+
+
+
+
