@@ -361,3 +361,77 @@ Industry Panel - Requirements in the Wild
 
 
 
+==========
+2018-09-20
+==========
+
+Barnga - a cultural game
+
+
+Time and Team Management
+
+Effective Time Management
+    Watch Randy Pausch's 'Time Management' lecture
+        also 'Last Lecture'
+    Time is a resource 
+    Parkinson's Law: The work allocated to a task fills the time allocated to it
+    In your project:
+        Plan your activities
+        Time box your activities
+            Always build in contingency (add 25% or double the time)
+        Reflect on your estimates/progress relative to capabilities
+
+Effective Team Management
+    Comprises a wide variety of skills, personalities, and experiences
+    Effective teams are driven by a goal, fuelled by an identy, reflective
+    Forming, norming, storming, performing
+    In your project:
+        Discuss your strengths, work habits, time management skills
+        Distribute work and yet ways to integrate work
+            Everyone should learn from each deliverable
+        Open communication channels
+        Regular checkups with team
+        Reflect on estimaes/progress relative to capabilities
+    Effective Team Member: driven by the team's goal, fulled by attitude, gives befroe asks
+    In your project:
+        Be a linchpin
+        Learn from others
+        Consider how you can help the team first
+
+
+Group Techniques in RE
+    Recognition of the need for a high degree of user involvement in system design
+
+Elicitation Techniques
+Group Techniques
+    Advantages
+        - Bring stakeholders together
+        - More informal interaction that interviews
+    Disadvantages
+        - More difficult to deal with groups, needs train facilitator
+        - Risk of groupthink
+
+Group techniques for elicitation
+    - Focus groups
+    - Brainstorming
+    - JAD (Joint Application Design)
+    - Also referred to as Requirements Workshop
+    Characteristics
+        - Communication between group members
+        - Sharing of information
+        - Sharing of workspace
+        - Coordination and control of shared objects
+        - Decision making
+        - Common understanding of the work progress
+        - Facilitation
+
+JAD
+    Structured agenda, visual aids, a facilitator
+
+Workshops and facilitation
+    Balances the needs of content, process, and people
+
+
+
+
+
