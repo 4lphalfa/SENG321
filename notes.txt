@@ -435,3 +435,57 @@ Workshops and facilitation
 
 
 
+==========
+2018-09-24
+==========
+
+RE Activities and the Software Process
+
+Re process (revisited)
+    Elicitation
+        What info should be gathered
+        From what sources can it be gathered
+        What techniques may it be gathered
+    Analysis
+        Understanding the problem domain
+        Goal: produce the requirements document
+            accurate description of what the solution will do (not a specification)
+    Specification
+        Define the behaviour of the system
+        Internal and external design
+            External: typical software design
+            Internal: defining how the solution is going to work, not how the software is going to work
+    Validation and Verification
+        What's the difference
+            Valadation: are we building the right product
+                if you don't do it at the beginning, it snowballs and you might have to undo months of work
+            Verification: are we building the product right (is it working)
+    Negotiation
+        Ensure expectations are consistent for both sides
+    Management
+        Adhere to the requirements (or establish a process to allow for change)
+        Traceability: we have are requirement, through the entire software process, you want to trace something to the initial requirements
+            We have coverage for all of our requirements
+
+The problem of requrements
+    no right or wrong way to do it
+
+RE process and documentation
+    
+Where does RE fit in Software Development
+    BDUF (Big Design Up Front)
+        Critical systems (pacemakers, self driving cars) 
+    It can go anywhere, but usually at the beginning
+    Prototyping
+        very good at figuring out scope
+        if you write code, DO NOT USE IT in the actual solution
+
+Towards processes that mitigate project risks
+    Continuous access to stakeholders
+    Incremental and iterative software development approaches
+
+
+
+
+
+
