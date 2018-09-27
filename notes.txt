@@ -489,3 +489,96 @@ Towards processes that mitigate project risks
 
 
 
+==========
+2018-09-27
+==========
+
+Requirements Specification
+
+Requirements Specification
+    Communication tool between multiple stakeholders
+    Communicates understanding of requirements
+    Often used as a contract
+    Baseline for change control
+Need something to document to manage expectations
+
+SRS Contents
+    Functionality
+    External interfaces
+        User
+        Hardware
+        Software
+        Communication
+    Performance
+    Design constraints
+    Other Requirements
+
+Functional Requirements
+    inputs => outputs
+    user interface structure and behaviour
+    ...
+
+Non Functional Requirements
+
+How do we know wer are writing the correct RD?
+
+Quality Characteristics of SRS
+    Unambiguous
+        - Each statements can be read in exactly one way
+    Complete
+        - Includes all the significant requirements, eg related to functionality, performance, design constraints, attributes or external intefaces
+    Verifiable
+        - A process exists to test specification of each requirement
+        - If it's not verifiable, it usually means it's ambiguous
+    Consistent
+        3 types of conflicts
+            - Different terms used for the same object
+            - Characteristics of objects that conflict
+            - Logical or temporal faults
+    Modifiable
+        - Easy to use organization, easy to change without difficulty
+    Traceable
+        - The origin of each requirement is clear ('backwards tracability') 
+        - Facilities referencing to future documentation related to RS ("Forward tracability") such aas test plans
+    Ranked for Importance
+        - Contains priority information for each requirement 
+    Correct
+        - Contains as much but no more than what is required (ie expresses only the real needs of stakeholders)
+
+
+The users should be able to do X (NOT the system should do X)
+The 'System' is much bigger than the software
+    Different actors etc Users
+
+
+Ambiguity in Natural Langue in Requirements Engineering Engineering
+
+Why is Ambiguity a Problem
+    Avoid confusion
+
+Subconscious Disambiguation
+    Not realizing that a sentence has more than one meaning when reading
+
+Subconscious Ambiguation
+    Not realizing that a sentence has more than one meaning when writing
+   
+Repetitive Myth
+    Define a word once, and then use it consistently
+
+Common Guidelines
+    Plurality
+        Don't use plural constructs (unless absolutely necessarily
+    Pronouns
+        Avoid
+    Only
+        Be careful with placement
+    All
+
+Define ambiguous terms that you will use at the start of the document
+    Must, Should, Each, May
+
+
+
+
+
+
