@@ -582,3 +582,124 @@ Define ambiguous terms that you will use at the start of the document
 
 
 
+==========
+2018-10-01
+==========
+
+Project Scope vs Product Scope
+    Product is what you're working on
+    Project is all the little things that need to be done
+    Product will influence project
+    Project has to do with deadlines
+
+
+Software Quality: Non-functional vs Functional Requirements
+
+Software Quality
+    Usability: if it doesn't do what you want, its not high quality
+    Internal vs External Quality
+    
+Review: Functional vs Non-functional
+    Functional requirements describe 
+        fundamental functions of the system
+    Non-functional requirements describe 
+        constraints on the system 
+        constraints from the application domain
+
+Some defn for NFR
+    Reliability
+    Efficiency
+    Integrity
+    Usability
+    Maintainability
+    Flexibility
+    Portability
+    Reusability
+    ...
+
+Another view: Software quality and non-functional requirements
+    the extent to which a system, component, or process meets customer or user needs or expectations
+
+Connect NFRs(Quality) to design
+    Architecture is like the skeleton, try to get it correct in the beginning
+    The client's don't necessarly understand some of these requirements
+    Quality Attribute Scenarios
+
+Quality Attribute Scenarios
+    Quality attribute, stimulus, response, response measure
+    Maintainability: when a new feature is added, the new feature is deployed in <4 hours
+        Quality attribute: Maintainability
+        Stimulus: when a feature is deployed
+        Response:
+        Response measure:
+    Security: there is never any exposure of PII
+        Quality attribute: Security
+        Stimulus: Collection of PII 
+        Response: It's protected 
+        Response measure: Never
+
+
+NFR = Quality requirement = Quality attribute
+
+
+Requirements inspections/technical reviews
+
+A slight detour: Technical Reviews
+    Technical reviews conduction during:
+        - specification
+        - design
+        - Coding
+    Other names
+        - Inspections
+        - Code reviews
+        - Walkthroughs
+        ...
+
+Benefits of technical reviews
+    Testing during the design phase can cost less time 
+
+Characteristics of technical reviews
+    Well defined roles
+    Typically no more than 6-7 participants
+    No more than 2 hours
+    Well defined and agreed outcome
+    Seek to uncover erros close to the time they may have been produced
+
+Roles in technical reviews
+    Fagan Inspections, moderator has more powers
+
+Fagan inspection process
+    Planning
+    Overview and Preparation
+    Inspection meeting
+        Find defects, but do not solve problems
+    Process Improvement
+    ...
+
+Requirements Reviews
+    Round Robin more useful
+        - Encourages equal participation
+        ...
+
+Guidelines for technical reviews
+    Develop a checklist on what is to be reviewed
+    Review the product, not the producer
+    Set an agenda and maintain it
+    Limit debate and rebuttal
+    Find defects, but do not solve problems
+    Take written notes
+    Limit number of participants and insist upon preparation
+    Review your earlier reviews and the current review process
+    Allocate resources and time schedule for technical reviews
+    Conduct meaningful training
+
+Your projects
+    Clients conduct a round robin technical review of RD 1.0
+    Requirements inspection checklist and template for summary report available in Connex
+    ...
+Don't wory about verifiability quite yet
+
+
+
+
+
