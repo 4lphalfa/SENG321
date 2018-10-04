@@ -1,0 +1,49 @@
+Roles 
+    Coordinators are not necessicarly leading the workshops
+    separate out the system administrator
+    Student volunteers must have some verification process
+    Verifying teachers have to register with the work(School) email address
+    letstalkscience@uvic.ca
+
+Workshop vs 
+    WOrkshops can be held at the gradeschool
+    Few times a year where they organize a big event at UVic, lts is creating the event, and classrooms 
+        Uvic hosted event
+
+Student volunteers should be able to see lesson plans for the workshops
+    Waivers for events they are attending
+
+Drop outs/switching should be handled by the coordinators
+
+For location store postal code
+
+volunteers need to see photo consent forms for UVic hosted events
+Student volunteers at gradeschools will need to see the forms if they are participating in the events
+    Accessibility concerns
+    alergies related to the event
+
+Only see forms if they are involved in the event
+
+Creation of uvic workshop events
+    created by letstalkscience, external to the system bust must include a way for them to be inputed into the system
+
+External stakeholders should be able to contact the coordinators only, not the student volunteers
+
+Prefered location is based off of postal code, user specified range (ex craigslist)
+
+teachers can submit one request, and can't submit another until the other has been resolved
+
+student volunteers use personal uvic email
+coordinators use letstalkscience uvic email
+teachers use teacher email
+
+Teachers will be in the thousands
+coordinators no more than 5
+student volunteers around 100
+    totaling 10000
+
+form should take roughly 20minA
+
+When I work (App)
+
+
