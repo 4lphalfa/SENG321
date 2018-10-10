@@ -703,3 +703,133 @@ Don't wory about verifiability quite yet
 
 
 
+==========
+2018-10-09
+==========
+
+Introduction to Requirements Modeling
+
+Where does this fit?
+    1. Identify Problem
+    2. Gather Requirements
+    3. Analyze & Model Requirements <- THIS ONE
+    4. Document requirments ...
+
+Requirements can be difficult to capture
+    Not alwasy obvious
+    Not easy to express in words
+    Different types at differnt levels of detail
+    Often related to one another
+    Can change and can be time sensitive
+
+So how do we cope with this
+    Good job at gatering requirements
+        Interviews
+        Observations
+        Analysis of documents
+        Copying from another product's features
+    Then model and keep track of requirements
+    Use models for requirements validation with all stakeholders
+
+Modeling
+    The act of representing something with something else
+    We model reality with text and diagrams
+
+Agile vs "Traditional" modeling
+    A practicle method for modeling to create software systems
+    Based on best practices
+    Light Weight
+        'Just enough' to get the job done
+        Don't model for the sake of modeling
+
+Functional Requirements
+    Describe what a system should do to meat the needs of its users
+    Let's take the exmple of a system to support a health practitioner to:
+        Record an immunization event
+        Manage a vaccine inventory
+            Add a vaccine to inventory
+
+Functional Requirements
+    Can be used in differnt ways
+        eg Use Cases
+    Supplemented by DOMAIN MODELS and UI MODELS
+
+Elicitations
+    Interviews
+    Observations
+Modeling
+    Use cases
+    Domain models
+        ER Diagrams
+        Data Dictionaries
+        Data Flow Diagrams
+    UI models
+Specification
+
+Use Cases Modeling
+    Diagrams provide overview of actors and ...
+    Informal description
+        ...
+        AKA a 'user story' from Agile methods
+    More Formal
+        Preconditions
+
+Domain Model
+    Describes entities and relationships in the problem domain
+    Modeled using ER diagrams
+    (So you have a plan for them when they happen)
+
+UI Model
+    Paper or electronic 
+
+
+Use Cases
+
+Use Case Analysis
+    Integral part of RE in user-centered analysis approaches
+    Use Cases
+        Ways in which the systems is being used
+        Useful means of expressing requirements on the functionality of the system
+        Written using simple prose -> understandable by a wide range of stakeholders
+
+Use Cases (Examples of definitions)
+    Dialogue of an actor with they system
+
+Elements of a Use Case
+    Title
+    Summary
+    ...
+
+Writing Use Cases
+    Identify all the actors (Entities that interact with the system)
+    Think of how they interact with the system
+    ...
+    Write use case
+
+Use Cases, Scenarios, use case models
+    Slightly different
+    Use Case
+        Abstract description of how an actor will use the system
+    Scenario
+        Specific interactiment with the system
+    Use Case Model
+        One use case model per system, includes multiple use cases
+
+Creating the use case model from Requirements
+    Find Actors
+    Identify actions
+    Narrow actions to specific
+    Draw use case model
+    Write each use case specification
+
+The Use Case specification should include
+    Actors
+    Preconditions
+    Steps
+    Success Condition
+    Possible Alternate Paths
+
+
+
+
+
