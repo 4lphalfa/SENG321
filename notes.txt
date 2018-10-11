@@ -833,3 +833,45 @@ The Use Case specification should include
 
 
 
+==========
+2018-10-11
+==========
+
+Availability
+Server attack
+How long it is unavailable
+Less than 1 hour a month
+
+Actor and actions
+
+False
+False
+
+
+Structured Analysis -- Or (mostl) Domain Modeling
+
+Traditional 'Structured' Modeling
+    To complement the Textual Requirements
+
+ER Diagrams
+    Shows in the problem domain the relationship between entity
+    Relationships are not universal, can depend on the specific problem domain
+
+Data Modeling
+    Look for nouns to use as domain entries
+    Define in the data dictionary anything that isn't common
+
+Data Flow Diagram
+    Always keep the same entities
+    Can be nested
+    Not intended to show all the use cases
+    Nouns on arrows, not verbs
+    
+Process-oriented Modeling (Data flow modeling)
+    Identify verbs (from use cases)
+    Draw process bubble to relate to these actions
+
+
+
+
+
