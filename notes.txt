@@ -875,3 +875,22 @@ Process-oriented Modeling (Data flow modeling)
 
 
 
+==========
+2018-10-15
+==========
+
+Each diagram has a description
+
+DFD
+    Show both before and after
+        Problem description and solution
+
+Object Oriented Modeling
+    Think about attributes and methods
+    In structured analysis, you do not talk about objects
+
+1-1 mapping for each use case to scenario?
+
+
+
+
