@@ -894,3 +894,61 @@ Object Oriented Modeling
 
 
 
+==========
+2018-10-18
+==========
+
+For RSD 1.0
+    Use cases
+    Sequence diagram
+    UI storyboards
+        UI model per use case
+
+
+UI Modeling
+
+Scenario Example
+
+System level and class level sequence diagrams
+
+How do you create a UI model
+    visualize everything you learned from your problem domain
+
+Prototypes are early versions of the functionality of the UI
+
+If the prototype isn't correct, you shouldn't build upon it
+
+Pictive
+    bring it to a client meeting and make the interface together
+
+
+Non-Functional Requirements
+    The true quality requirements
+
+Quality attributes = quality requirments
+
+Why Quality attribute scenairo
+    Measureable = objective
+    Test design or implementation
+    Acceptance criteria: I won't sign off untill the requirement is met
+
+Treatment of NFRs
+    The lower the number of branches, the easier it is to update the code
+    The quality attribute would create a requirement in your project and code
+        You want to make this measureable
+
+Making Requirements measureable
+    Low coupling, high cohesion
+
+Maintainability
+    Less complex code is easier to maintain
+    Factors effecting maintainability:
+
+Reliability
+    used to judge quality of software
+    Probability of failure on demand
+
+
+
+
+
