@@ -952,3 +952,78 @@ Reliability
 
 
 
+==========
+2018-10-22
+==========
+
+Verification and Validation (V&V)
+
+Validation: The software should do what the users need 
+Verification : The software should conform to its specification
+
+Validation and verification critera
+    Validation 
+        Discover/understand Domain properties
+        Discover/understand Requiremets
+    Verification 
+        program satisfies specification
+        specification given the domain properties satisfies requirements
+
+A V&V Plan
+    Major activities
+        Reviews, inspections, and walkthroughs
+        Testing
+    Happens at all phases in the lifecycle
+
+Development stages and V&V activities
+    Implementation: desk checking/unit testing before you intergrate with others
+
+V&V: on and about requirements
+    Validation techniques:
+    Inspections of the requirements document for:
+        Completeness and consistency
+        Conformance to standards
+        Conflicts
+        Ambiguous 
+
+V&V: Requirements Phase
+    Assure requirements are testable
+    Create a preliminary version of the Acceptance test plan, including a verification matrix relating requirements to tests
+
+V&V: software architecture (prelinary design) phaes
+    Updating the preliminary version of Acceptance Test Plan and the verfication matrix
+    Informal reviews and walkthroughs or inspection of the preliminary software
+
+V&V: Softwre detailed design phase
+    Complete the Acceptance Test Plan and the verfication matrix
+    Conduct informal reviews and walkthroughs or inspection of the detailed software
+
+V&V: Implementation phase
+    Code inspections and/or walkthroughs
+    Unit testing software and data structures
+    Locating, correcting, and retesting errors
+    Developlent of detailed integration and product testing procedures
+
+Code Etsting
+    Nonexecution based testing
+    Execution based testing: Aganst test cases
+
+Execution based testing
+    Blackbox testing: code is ignored
+    Whitebox testing: code is tested
+
+Black box testing
+    Equivilence Testing and Boundary Value Analysis
+
+V&V: Integration phase
+    Conduction tests per test procedures
+    Document test performance
+    Try to fix it
+
+Acceptance and delivery phase
+    Hasn't been tested in the operating environment
+
+
+
+
+
