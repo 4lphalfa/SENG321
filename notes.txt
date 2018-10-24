@@ -1027,3 +1027,44 @@ Acceptance and delivery phase
 
 
 
+==========
+2018-10-23
+==========
+
+1. Problem with group elicitation(?)
+    Group think
+    Need Skilled facilitator
+    Hard to focus
+
+Survey: reach out
+Elicitation techniques: Contextual design
+
+2. Explain 2 dissadvantages with Questionnaires
+    Not interactive, stuck with the answers
+    Sample size
+    Context
+    Leading questions/bias - solved by pilot
+
+5. Explain what it means thata an SRS is internally consistent. Provide an example where it could be internally inconsistent
+    Vocabulary should be consistent
+    Terms or elements that are defined should not conflict
+
+6. Define Backwards and Forwards Traceability. What is their role in V&V?
+    Backwards Traceability: Genesys of a requirement. Linking an elicitation to a requirement. Paper trail
+    Forward Traceability: Organization of requirements to track how they change. 
+
+8. How would you measure these non-functional requirements? 
+    Useability: performance time
+    Complexity: Steps to perform a task
+    Reliability: downtime per month, time between failures, % of correct deliverabiles
+
+10. DFD for a scenario
+    Don't forget the system boundary
+
+11. What could go wrong in this bidding scenario
+    Cusomizations might not be possible
+    V&V is missing, only meet once
+
+
+
+
