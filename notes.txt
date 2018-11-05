@@ -1068,3 +1068,74 @@ Elicitation techniques: Contextual design
 
 
 
+==========
+2018-11-05
+==========
+
+Change Management
+
+Stakeholders and an interesting relationship
+    Ongoing negotiation process
+
+Software evolution and change managements
+    in the bigger picture of software evolution
+    Reasons for change
+        new requirements become apparent
+        business and strategic goals change
+        changes in customer market
+    Change management: largely a project management activity
+    Possible responses to change
+        Add new requirements
+        Modify existing requiremnets
+        Remove existing requirements
+
+Change Management Techniques
+    Reqirements prioritization, triage (highest priority first)
+        -> release planning (different release dates for different features)
+    Requirements traceability
+    Formal change management process
+
+Requirements Traceability
+    Backwards Traceability
+        Requirements rational, relation to anything that produces a requirement
+    Forward Traceability
+        link a requirement to use case/ui model (requirement)
+    Important for:
+        assessing change requests
+        Project management: progress visibility, risk management
+
+    Harder to do in practice
+    Weak current tool support in:
+        Tracing between different tools
+
+Formal Change Managment
+    Configuration management
+        versioning of the SRS
+        Baselining the SRS after the requirements analysis was complete
+    The latest SRS should include the current understanding and agreement wrt requirements
+    Change control board in charge of reviewing and approving change requests (barrier causes thought about necessary changes)
+    Changes between versions should be documented
+
+Pre and Post Requirements traceability ant Unisys: a case study
+    Not accept a one line statement of a requirement
+    for project write down:
+        rationale
+        Scenairo
+
+Requirements Traceability
+
+In RSD 2.0
+    For each requirement, include rationale and test scenario
+    Create a requirements Traceability Matrix
+
+
+Midterm
+    6. a and c
+    8. Correctness, completeness, ...
+    13. only worked with trusted/existing customers
+        gives bias answers
+
+
+
+
+
