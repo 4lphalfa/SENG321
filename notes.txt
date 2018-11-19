@@ -1139,3 +1139,52 @@ Midterm
 
 
 
+==========
+2018-11-19
+==========
+
+RE in the Age of AI - Alessia Knauss, Research Specialist Systems
+
+Contextual Requirements: Requirements that come up at runtime
+
+Colaboration between the driver and self-driving cars
+    Support the driver when manually driving
+    Trust the system when self-driving
+    Have the system trust you
+
+It's hard to get the context
+Requirements change at runtime
+
+Requirements as Runtime Entities
+    Not just understanding the requirements, but the system can understand, document, and modify requirements as well
+
+Self-adaptive system
+
+Ex. Parking Lot System
+    Wouldn't fill parking spots close to the pilliars
+
+Context and Requirements for Adaptive Systems
+    Traditional 
+        if amount of cars > parking spots on second floor, direct to ground floor
+    For adaptive systems, the focus is on context
+        Use some concepts to document the context knowledge
+        Implement techniques that would understand where you park
+    Self-Adaptive Systems
+        ...
+
+Context and Requirements
+    A contextual requirement consists of a 2-tuple of the expected system behaviour and the specific context within ...
+
+Contextual Requirements in Self-Adaptive Systems
+    
+Cotextual Requirements Affected by Runtime Uncertainty
+    Needs to be done at runtime becuase it's hard to design without context
+
+AI and Feedback Loops
+    mine data to come up with the contextual requirements
+
+
+
+
+
+
