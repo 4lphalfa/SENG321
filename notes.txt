@@ -1188,3 +1188,82 @@ AI and Feedback Loops
 
 
 
+==========
+2018-11-22
+==========
+
+Validation and verification
+
+Predicate Logic in Formal RE specifications
+    A: a person comes close to the door
+    B: the door opens
+    C: motion sensor is triggered
+    D: OPEN signal to motor
+
+    Reqs: {A -> B}
+    Dom: {A -> C, D -> B}
+    Spec: {C -> D}
+    Prove that Dom ^ Spec = Reqs 
+
+Definition and overview of formal methods
+    applications of discrete mathmatics
+    Modeling and analysis
+    Mathmatically-precise foundation
+    Formal language for describing a software artifact
+    Formal proofs
+    About properties of the artifact
+
+Use of formal methods
+    Reasoning about a formal description
+    The requirements problem
+        Verification does not eliminate the need for validaton
+        The dicipline of producing a formal specification can result in fewer specifications errors
+    When to use formal methods
+        Mostly functional requirements
+        Critical components of the system
+
+Formal requirements Specification
+    Formal reqirements spefications are specifications that have formal semantics and syntax
+    Allows ...
+    ...
+
+Formal specification in RE
+    Useful in reasoning about the relationships between domain properties, requirements and specifications
+    Prove properties ...
+    ...
+
+The role of FMs in RE
+    Domain: a description of how the environment is
+    Requirements: A description of how we would like the environment to be
+    Machine: A description of how we inted to change the environment (by deploying a macnine that does "something" to make our wishes become true)
+
+Types of formal Specifications
+    Property-oriented languages
+        System is described by a set of axiomatic properties
+    Model-oriented languates
+        System is described by a state, and operations
+        ...
+
+Automated Verification
+    One major benefit ...
+
+Theorem Proving
+    System is desribed with a set of formulas
+    Specifications...
+    ...
+
+Model-oriented languages
+    Represent systems as set of states
+    ...
+
+Model-checking
+
+Challenges in applying formal specification methods
+    Limited scope (to functional requirements)
+    Isolation from other software products and processes in organizations
+    Cost (require high expertise in formal systems and mathematical logic)
+
+
+
+
+
