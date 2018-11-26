@@ -1267,3 +1267,73 @@ Challenges in applying formal specification methods
 
 
 
+==========
+2018-11-26
+==========
+
+IBM Project
+    Online communication
+    Threaded discussion on a user story
+    Wanted to know if we can look at the discussion and tell how the project is going
+        If you see a lot of clairification, it isn't good
+    Wanted to code every comment into
+        Clairification (BAD)
+        Coordination/communication (GOOD)
+    
+    Built a classifier (machine learning) to automatically classify comments
+    Came out with 6 different patterns
+        Indifferent - think they know, but might not
+        Back to draft - bring in an expert
+        Textbook example
+        Procrastination
+        Happy ending
+        Discordant
+
+Ecrits (critical customer support tickets)
+    Can you predict when a ticket will become escalated?
+
+
+Defn of a startup
+    "An organization in search of a scalavle, repeatable, profitable business model"
+    "A human institution designed to create a new product or service under conditons of extreme uncertainty"
+
+In the study, the defn
+    Has recently spun-off from a large company
+    is still at a stage without a solid revenue stream
+    Has not yet gone public
+
+Research Methodology
+    1 - 10 years
+    allowed to attend meetings
+    full day observations
+    semi-structured interviews
+
+Requirements artifacts
+    what made them change and evolve
+
+Requirements Related Roles
+    Started out general, but moved to more specialized roles
+
+Knowledge Management
+    How you colect and store knoledge in your company
+    How to communicate with customers
+
+Product Quality
+    Tradeoffs between quality and speed start to matter
+
+Technical Debt
+    Doing something right takes more time, but you don't have time so you say you'll come back to it later
+    Understanding the impact of technical devt on product/service matters
+
+Planning
+    Company/product vision and alignmnet with it matters
+
+
+About the presentation
+20min
+    15 as the Designers
+    5 with the communication witht he client
+
+
+
+
