@@ -1337,3 +1337,91 @@ About the presentation
 
 
 
+
+
+==========
+2018-11-27
+==========
+
+We are also clients 1, 2, 3, 4
+    Clients should also speak in your presentation
+
+Do not just go through the RSD
+Entice to read the research
+Everybody should talk
+Be repetitive
+
+
+
+
+
+==========
+2018-11-29
+==========
+
+RE in the Wild
+    Anna Russo Kennedy - Bandcamp
+    Will Warren - Sendwithus
+    Carrie Young - SierraSystems Group
+
+Bandcamp
+    52 people
+        Dev team - 25
+        Anna manages a team of 5
+    Distributed
+    Site is 10 years old
+
+Sendwithus
+    moving from small to enterprise level clients
+    70 people
+    Will joined a year ago
+
+SierraSystems Group
+    Recently sold
+    Collectively around 2000 empolyees
+
+Will
+    Metrics that he cares about
+        Fast and little downtime
+        # of support tickets
+    Personas are important
+    Stories/epics
+    The further the customer is away from the developers, the harder it is to get information
+
+Carrie
+    Responds to RFP
+    There is no product to sell / Starting from scratch
+    Start with talking to people
+    Job shadowing
+    Iterative design development
+    Attach $ to deliverables
+    Works directly with the end user
+    Developers understanding the context for the project is important
+    Analyze what the clients say constantly
+
+Anna
+    Requirements gathering
+        Support
+        Reactive to the users wants/needs
+    Builds a product specification
+        use cases
+        stories
+        ...
+    Development specification
+    Maintain detailed wiki
+    Everything must be detailed/written down
+    Support is email-based
+
+When you have remote workers, you have to become a distributed company
+    or else you are failing those remote workers
+
+
+Skills Needed for Requirements
+    Communication between designers and clients
+    Writing 
+(Microsoft styles)
+
+
+
+
+
